@@ -1,6 +1,6 @@
 # Bioskop ML
 
-The recommendations part of the Software Engineering Project, Bioskop.
+The core part of Bioskop which implements the recommendation system.
 
 ## Instructions to set up the database
 
